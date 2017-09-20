@@ -1,4 +1,4 @@
-# Arduino + NRF2401+ Drone
+# Arduino & NRF2401+ Drone
 This is a complete solution for Arduino and NRF2401+ based drone solution. From transmitter to receiver then flight controller (Multiwii).
 
 (//TODO: details of optional and resistor values)
