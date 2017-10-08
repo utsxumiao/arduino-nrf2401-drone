@@ -6,7 +6,7 @@ This is a complete **LOW COST** guide for DIY Arduino and NRF2401+ based drone p
 - [Transmitter(TX)](/transmitter)
 - [Receiver(RX)](/receiver)
 - [Flight Controller(FC)](/flight-controller)
-- [Frame](/frame) (the body of done) 
+- [Frame](/frame) (the body of drone) 
 - [Other Parts](/other-parts) Brushless motors, Escs, batteries, propellers and so forth.
 
 ### The Motivation
