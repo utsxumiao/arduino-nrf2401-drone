@@ -1,6 +1,6 @@
 # Arduino & NRF2401+ Drone
 
-## What is this project about?
+### What is this project about?
 This is a complete LOW COST solution for Arduino and NRF2401+ based drone package, including transmitter(TX), receiver(RX), flight controller(FC), frame (the body of done) and also covers how to pick some low cost parts like motors, Escs, propellers and so forth.
 
 
