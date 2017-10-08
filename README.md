@@ -3,7 +3,7 @@
 //TODO: some images/videos about this project
 ### What Is This Project About?
 This is a complete **LOW COST** (under $50) guide for DIY Arduino and NRF2401+ based drone package which includes: 
-- Transmitter(TX)
+- [Transmitter(TX)](/transmitter/README.md)
 - Receiver(RX)
 - Flight Controller(FC) using [MultiWii](https://github.com/multiwii)
 - Frame (the body of done) 
