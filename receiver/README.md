@@ -31,7 +31,7 @@ Joystick|$1|2|Yes/No. Can be replaced by a toy transimitter
 Prototype Board|$1|1|No. Unless you have a toy/trashed transimitter
 Electrolytic Capacitor 10UF||1|Yes. To stablise power supply to NRF module
 Ceramic Capacitor 0.1UF||1|Yes. To eliminate noise from power supply to NRF module
-ASM1117 3.3||1|Yes. Separate power supply from battery to NRF module
+ASM1117 3.3v Votage Regulator||1|Yes. Separate power supply from battery to NRF module
 
 *Someone claims Arduino Pro Mini(3.3v) VCC output does not have enough juice for the NRF module with PA, so the optional ASM1117 chip is to make separated power supply from battery to NRF module, but in my expirence the Arduino VCC works just fine for this application.
 
@@ -44,7 +44,7 @@ Joystick|$1|2|Yes/No. Can be replaced by a toy transimitter
 Prototype Board|$1|1|No. Unless you have a toy/trashed transimitter
 Electrolytic Capacitor 10UF||1|Yes. To stablise power supply to NRF module
 Ceramic Capacitor 0.1UF||1|Yes. To eliminate noise from power supply to NRF module
-ASM1117 3.3||1|Yes. Separate power supply from battery to NRF module
+ASM1117 3.3v Votage Regulator||1|Yes. Separate power supply from battery to NRF module
 Piezo Speaker 3.3v||1|Yes. Give some sound feedback
 I2C LCD|$3|1|Yes. Add a screen to our transmitter
 
