@@ -10,10 +10,14 @@ Depends on which of following set you choose, this transmitter can be a sort of 
 - Multimeter (optional, but recommaded)
 - Hot glue gun (optional)
 
-Minimum:
- - 1 x Arduino Pro Mini 8MHZ 3.3V
- - 1 x NRF2401+
- - 2 x Joystick (a joystic is essentially 2 potentiometers)
+### Option Minimum:
+Components | Cost | Qty | Optional
+-----------|------|-----|---------
+Arduino Pro Mini (recommend 3.3V version)|$1|1|No
+NRF24L01+|$1|1|No
+Joystick|$1|2|Yes/No. Can be replaced by a toy transimitter
+LED|$0|1|Yes. Cost almost nothing
+Electric Wire|$1|several|Let's say $1 for LED and some electric wires
 
 Better range and stability:
  - 1 x NRF2401+ with PA and external antena (to replace the one above)
