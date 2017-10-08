@@ -1,7 +1,17 @@
 # Arduino & NRF2401+ Drone
-This is a complete solution for Arduino and NRF2401+ based drone solution. From transmitter to receiver then flight controller (Multiwii).
 
-(//TODO: details of optional and resistor values)
+## What is this project about?
+This is a complete LOW COST solution for Arduino and NRF2401+ based drone package, including transmitter(TX), receiver(RX), flight controller(FC), frame (the body of done) and also covers how to pick some low cost parts like motors, Escs, propellers and so forth.
+
+
+
+The aim of this project is mainly for people want try out RC Drone hobby without making too much damage to their bank account, also for educational purposes. I would rather say "learn together" as I am new to hardware and C/C++ programming.
+
+To build a drone by following this project DOES NOT require expirence of software programming, just update the sketch onto your board and it should work, but you do need to be able to do some soldering work and some tools like soldering iron for sure. If you would like to learn some Arduino development skills, let's learn together! If you are a C/C++ programmer, it would be really appreciated if you can comment/help on improving this project, especially on my newbie's sketches. (I am a .NET developer has no background of hardware (C/C++) programming at all, sketches in this project are "working" but I am pretty sure there are many places could be better, eg. data types.)
+
+(//TODO: some images/videos about this project)
+
+# How Many Things
 # Transmitter: 
 
 Minimum:
