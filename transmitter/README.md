@@ -9,7 +9,7 @@ Depends on which of following set you choose, this transmitter can be a sort of 
 - Cutter knife (AS ABOVE and to use the joysticks in it)
 - Multimeter (optional, but recommaded)
 - Hot glue gun with glue stick(optional)
-- Some electric wires
+- Some electric wire
 
 ### Options
 #### Minimum:
@@ -20,6 +20,7 @@ NRF24L01+|$1|1|No. Covers 100m area according to datasheet
 Joystick|$1|2|No. Unless you have a toy/trashed transimitter
 Prototype Board|$1|1|No. Unless you have a toy/trashed transimitter
 LED|$0|>=1|No. Cost almost nothing
+Switch|$0|1|No. Cost see below
 Push Buttons|$1|>=2|No. Let's say $1 for LED and some push buttons
 
 #### Better Range & Stability:
@@ -27,8 +28,11 @@ Components | Cost | Qty | Optional
 -----------|------|-----|---------
 Arduino Pro Mini (recommend 3.3V version)|$1|1|No
 NRF2401+ with PA and external antena|$5|1|No. Extend signal to 2km area according to datasheet
-Joystick|$1|2|Yes/No. Can be replaced by a toy transimitter
-Prototype Board|$1|1|No. Unless you have a toy/trashed transimitter
+Joystick|$1|2|No. Unless you have a toy/trashed transimitter
+Prototype Board|$1|1|NNo. Unless you have a toy/trashed transimitter
+LED|$0|>=1|No. Cost almost nothing
+Switch|$0|1|No. Cost see below
+Push Buttons|$1|>=2|No. Let's say $1 for LED and some push buttons
 Electrolytic Capacitor 10UF||1|Yes. To stablise power supply to NRF module
 Ceramic Capacitor 0.1UF||1|Yes. To eliminate noise from power supply to NRF module
 ASM1117 3.3v Votage Regulator||1|Yes. Separate power supply from battery to NRF module
@@ -42,6 +46,9 @@ Arduino Pro Mini (recommend 3.3V version)|$1|1|No
 NRF2401+ with PA and external antena|$5|1|No
 Joystick|$1|2|Yes/No. Can be replaced by a toy transimitter
 Prototype Board|$1|1|No. Unless you have a toy/trashed transimitter
+LED|$0|>=1|No. Cost almost nothing
+Switch|$0|1|No. Cost see below
+Push Buttons|$1|>=2|No. Let's say $1 for LED and some push buttons
 Electrolytic Capacitor 10UF||1|Yes. To stablise power supply to NRF module
 Ceramic Capacitor 0.1UF||1|Yes. To eliminate noise from power supply to NRF module
 ASM1117 3.3v Votage Regulator||1|Yes. Separate power supply from battery to NRF module
