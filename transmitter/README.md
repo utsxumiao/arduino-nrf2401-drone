@@ -13,10 +13,10 @@ Depends on which of following set you choose, this transmitter can be a sort of 
 
 ### Options
 #### Minimum:
-Components | Cost | Qty | Optional
------------|------|-----|---------
+Components | Cost | Qty | Optional 
+-----------|------|-----|----------
 Arduino Pro Mini (recommend 3.3V version)|$1|1|No
-NRF24L01+|$1|1|No. Covers 100m area according to datasheet
+NRF24L01+|[$1](https://www.banggood.com/3Pcs-NRF24L01-SI24R1-2_4G-Wireless-Power-Enhanced-Communication-Receiver-Module-p-1057155.html)|1|No. Covers 100m area according to datasheet|
 Joystick|$1|2|No. Unless you have a toy/trashed transimitter
 Prototype Board|$1|1|No. Unless you have a toy/trashed transimitter
 LED|$0|>=1|No. Cost almost nothing
