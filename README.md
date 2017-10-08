@@ -29,5 +29,5 @@ If you would like to learn Arduino development, let's learn together! If you are
 //TODO:
 
 ### Licensing
-//TODO: Licensing
+[MIT License](/blob/master/LICENSE)
 
