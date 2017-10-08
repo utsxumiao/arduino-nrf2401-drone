@@ -1,6 +1,6 @@
 # Arduino & NRF2401+ Drone
 
-### What is this project about?
+#### What is this project about?
 This is a complete **LOW COST** guide for DIY Arduino and NRF2401+ based drone package which includes: 
 - Transmitter(TX)
 - Receiver(RX)
@@ -8,7 +8,12 @@ This is a complete **LOW COST** guide for DIY Arduino and NRF2401+ based drone p
 - Frame (the body of done) 
 - How to pick some low cost parts like motors, Escs, batteries, propellers and so forth.
 
+#### The motivation
+I've been in RC hobby for about three years so far, mainly building and flying drones and some glider planes. I've been seeing friends, neighbours and, sometimes, boys in the park shown great interest about DIY RC hobby, most of them played toy drones and wanna go deeper into DIY. Then they are scared away or stepped back after asking how much it will cost to enter DIY RC world (they actually mean the set to fly). 
 
+Products on shelf are normally over priced in Australia and only good for an urgent need, understandablly, labour and shipping cost is quite high here and the tiny market makes the case even worse, vendors only stock high value (of course better quality and better performance) items in order to maintain an acceptable margin. I do not against high-end products as I do own some decent drone parts, transmitters and have been spending thousands over these years but that is not the topic.
+
+I've been woundering if there is any way to let those guys try out in the pool before jumping into the ocean until I dive myself into [MultiWii](https://github.com/multiwii) and [Arduino](https://www.arduino.cc) recently
 
 The aim of this project is mainly for people want try out RC Drone hobby without making too much damage to their bank account, also for educational purposes. I would rather say "learn together" as I am new to hardware and C/C++ programming.
 
