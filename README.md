@@ -1,7 +1,12 @@
 # Arduino & NRF2401+ Drone
 
-###What is this project about?
-This is a complete **LOW COST** solution for DIY Arduino and NRF2401+ based drone package which includes: transmitter(TX), receiver(RX), flight controller(FC, using [MultiWii](https://github.com/multiwii)), frame (the body of done) and also covers how to pick some low cost parts like motors, Escs, propellers and so forth.
+### What is this project about?
+This is a complete **LOW COST** guide for DIY Arduino and NRF2401+ based drone package which includes: 
+- Transmitter(TX)
+- Receiver(RX)
+- Flight Controller(FC) using [MultiWii](https://github.com/multiwii)
+- Frame (the body of done) 
+- How to pick some low cost parts like motors, Escs, batteries, propellers and so forth.
 
 
 
