@@ -14,7 +14,7 @@ I've been in RC hobby for about three years so far, mainly building and flying d
 
 Products on shelf are normally over priced in Australia and only good for an urgent need, understandablly, labour and shipping cost is quite high here and the tiny market makes the case even worse, vendors only stock high value (of course better quality and better performance) items in order to maintain an acceptable margin. I do not against high end products as I do own some decent drone parts, transmitters and have been spending thousands over these years but that is not the topic.
 
-I was woundering if there is any way to let those guys try out in the pool before jumping into the ocean. Until recently I dive into [MultiWii](https://github.com/multiwii) and [Arduino](https://www.arduino.cc), I realised that it is absolutely possible to build the whole lot within $50 and they are hobby grade rather than toy.
+I was wondering if there is any way to let those guys try out in the pool before jumping into the ocean. Until recently I dive into [MultiWii](https://github.com/multiwii) and [Arduino](https://www.arduino.cc), I realised that it is absolutely possible to build the whole lot within $50 and they are hobby grade rather than toy.
 
 ### The Goal
 The aim of this project is mainly for people want try out DIY RC Drone without making too much damage to their bank account, ultimately get your DIY drone in the air under **$50**(USD). Also for learning purposes I would like to learn together on hardware and C/C++ programming as I am new to this as well. We are not going to reinvention the wheel if any aspect of this project has been done by someone, we are here to put them in use and improve it if possible.
