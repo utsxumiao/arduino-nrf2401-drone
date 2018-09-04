@@ -26,7 +26,7 @@ To build a drone by following this project DOES NOT require expirence of softwar
 If you would like to learn Arduino development, let's learn together! If you are a C/C++ programmer, it would be really appreciated if you can comment/help on improving this project, especially on my newbie's sketches. (I am a .NET developer have no background of hardware (C/C++) programming at all, sketches in this project are "working" but I am pretty sure there are many places could be better, eg. data types.)
 
 ### Side Notes
- - *Radio Frequency*. The NRF24L01+ module provides 126 channels (0 - 125) mapping frequencies from 2400mhz to 2525mhz respectively, if you are planning to use it in areas close to residential like even indoor (a lot of WIFI) better stick to channels from 85 (2485mhz) and above to minimize interference, it gives you 40 channels to choose from, for simplicity I prefer starts from 100 and 25 channels is plenty for me. According to [List of WLAN channels](https://en.wikipedia.org/wiki/List_of_WLAN_channels) most WIFI routers are using frenquency under 2484mhz.
+ - **Radio Frequency**. The NRF24L01+ module provides 126 channels (0 - 125) mapping frequencies from 2400mhz to 2525mhz respectively, if you are planning to use it in areas close to residential like even indoor (a lot of WIFI) better stick to channels from 85 (2485mhz) and above to minimize interference, it gives you 40 channels to choose from, for simplicity I prefer starts from 100 and 25 channels is plenty for me. According to [List of WLAN channels](https://en.wikipedia.org/wiki/List_of_WLAN_channels) most WIFI routers are using frenquency under 2484mhz.
 
 ### Acknowlegements
 //TODO:
